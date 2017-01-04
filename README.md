@@ -1,2 +1,2 @@
 # Spider
-Spider for crawl URL in the webpage iteratively
+Spider for crawling URL in the webpage iteratively
