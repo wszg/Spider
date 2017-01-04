@@ -1,0 +1,9 @@
+urls: ./urls
+output: ./output
+thread: 5
+crawl_timeout: 10
+pattern: .*?baidu.*?
+max_depth: 2
+logfile: ./log
+loglevel: 4
+crawl_interval: 1
